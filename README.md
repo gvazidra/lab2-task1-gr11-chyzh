@@ -6,6 +6,4 @@ It is public template of assignment `"labrabota 3"` for FPMI students
 
 Alena Chyzh group 11
 
-# Building
 
-Please, import repository and use for repl.it project, which is defined in the assignment "labrabota 3".
